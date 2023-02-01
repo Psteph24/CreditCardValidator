@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\pstep\source\repos\CreditCardValidator\CreditCardValidator\src\Main.cpp(8,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\pstep\source\repos\CreditCardValidator\CreditCardValidator\src\Main.cpp(35,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CreditCardValidator.vcxproj -> C:\Users\pstep\source\repos\CreditCardValidator\x64\Debug\CreditCardValidator.exe
